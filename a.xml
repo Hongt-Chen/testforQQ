@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>XML规范网页 XHTML</title>
+    <style type="text/css">
+        body{text-align:center;margin-top:50px;font-family:Arial;}
+        h1{color:#2563eb;}
+        p{font-size:16px;color:#444;}
+    </style>
+</head>
+<body>
+    <h1>XHTML 网页示例</h1>
+    <p>这是符合XML语法规范的网页页面</p>
+    <p>所有标签必须闭合、大小写严格、属性加引号</p>
+</body>
+</html>
